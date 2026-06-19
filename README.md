@@ -1,4 +1,13 @@
-
+Hash map and set
+------------------
+✅ Character Frequency
+✅ First Non-Repeated Character
+✅ Contains Duplicate
+✅ Find Duplicate
+✅ Two Sum
+✅ Valid Anagram
+✅ Longest Consecutive Sequence
+✅ Subarray Sum Equals K
 
 ## Goal
 
