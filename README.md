@@ -1,3 +1,27 @@
+## Basic 
+Arrays
+Binary Search
+Linear Search
+Second Largest
+Missing Number
+Rotate Array
+Strings
+Reverse String
+Character Frequency
+First Non-Repeated Character
+Palindrome
+Anagram
+Math
+Reverse Integer
+Prime Number
+Armstrong Number
+Fibonacci
+Factorial
+Number to Words (understand the logic)
+Bit Manipulation (just basics)
+Odd/Even
+Swap without temp (optional)
+
 Hash map and set
 ------------------
 ✅ Character Frequency
